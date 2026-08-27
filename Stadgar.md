@@ -1,4 +1,4 @@
-**Stadgar för \[Föreningens namn\]**
+**Stadgar för inet6**
 
 *Antagna vid konstituerande möte den \[datum\]*
 
