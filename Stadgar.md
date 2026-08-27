@@ -104,7 +104,7 @@ Styrelsen får inom sig eller bland föreningens medlemmar tillsätta arbetsgrup
 
 ## **§ 11 Firmatecknare**
 
-Föreningens firma tecknas av styrelsen i sin helhet eller av den eller dem som styrelsen därtill utser.
+Föreningens firma tecknas av ordförande och kassör.
 
 ## **§ 12 Räkenskapsår**
 
