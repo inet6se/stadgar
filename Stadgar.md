@@ -8,7 +8,7 @@ Föreningens namn är \[Föreningens namn\].
 
 ## **§ 2 Ändamål**
 
-\[Föreningens namn\] är en ideell, partipolitiskt och religiöst obunden förening som har till ändamål att
+inet6 är en ideell, partipolitiskt och religiöst obunden förening som har till ändamål att
 
 * sprida kunskap om och främja förståelsen för IPv6 och därtill hörande teknik hos allmänheten, myndigheter, näringsliv och andra organisationer,
 
