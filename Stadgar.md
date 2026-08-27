@@ -4,7 +4,7 @@
 
 ## **§ 1 Namn**
 
-Föreningens namn är \[Föreningens namn\].
+Föreningens namn är inet6.
 
 ## **§ 2 Ändamål**
 
