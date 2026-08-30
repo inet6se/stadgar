@@ -135,15 +135,3 @@ Föreningen ansvarar inte för medlems verksamhet eller för skada som uppstår 
 ## **§ 17 Tolkning och tvist**
 
 Uppstår tvist om tolkningen av dessa stadgar avgörs frågan i första hand av årsmötet.
-
-**Anteckningar inför färdigställande**
-
-*Detta är ett utkast och ingen juridisk rådgivning. Låt gärna en jurist eller revisor med erfarenhet av ideella föreningar och/eller RIPE NCC-medlemskap se igenom stadgarna innan de antas, särskilt §§ 2, 4, 15 och 16\.*
-
-*Punkter markerade med hakparentes \[ \] behöver fyllas i eller anpassas efter er förening (namn, ort, datum, tidsfrister, antal styrelseledamöter m.m.).*
-
-*Skattemässig status: eftersom föreningen både har ett allmännyttigt syfte (kunskapsspridning om IPv6) och tillhandahåller medlemstjänster (LIR-relaterade tjänster) som kan likna näringsverksamhet, är det inte givet att föreningen automatiskt räknas som 'allmännyttig ideell förening' i inkomstskattelagens mening. Kontrollera med Skatteverket eller en revisor vad som gäller för just er verksamhet, inklusive eventuell moms- och inkomstskattehantering av avgifter för LIR-tjänster.*
-
-*RIPE NCC-medlemskap: att bli LIR innebär ett separat avtal (Standard Service Agreement) och en due diligence-process hos RIPE NCC, utöver föreningsbildningen. Föreningen bör vara formellt bildad (med organisationsnummer från Skatteverket) innan ni ansöker om LIR-status, eftersom RIPE NCC kräver uppgifter om juridisk person, firmatecknare och registreringsbevis.*
-
-*Nästa steg är ofta: 1\) hålla konstituerande möte där dessa stadgar antas och styrelse väljs (protokollmall kan tas fram separat), 2\) ansöka om organisationsnummer hos Skatteverket, 3\) öppna föreningskonto, 4\) ansöka om RIPE NCC-medlemskap/LIR.*
