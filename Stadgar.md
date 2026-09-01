@@ -116,7 +116,7 @@ Föreningens räkenskapsår är \[kalenderår 1 januari–31 december / annat r�
 
 ## **§ 14 Stadgeändring**
 
-Ändring av dessa stadgar beslutas av två på varandra följande möten, varav minst ett ska vara ordinarie årsmöte, med minst \[t.ex. fyra (4)\] veckors mellanrum. Beslut om stadgeändring kräver minst två tredjedels (2/3) majoritet av avgivna röster vid vardera mötet.
+Ändring av dessa stadgar beslutas av två på varandra följande möten, varav minst ett ska vara ordinarie årsmöte, med minst 4 veckors mellanrum. Beslut om stadgeändring kräver minst två tredjedels (2/3) majoritet av avgivna röster vid vardera mötet. Vid total enighet krävs inte två på varandra följande möten.
 
 ## **§ 15 Upplösning**
 
