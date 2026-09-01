@@ -1,14 +1,14 @@
-**Stadgar för inet6**
+**Stadgar för inet6.se**
 
 *Antagna vid konstituerande möte den \[datum\]*
 
 ## **§ 1 Namn**
 
-Föreningens namn är inet6.
+Föreningens namn är inet6.se.
 
 ## **§ 2 Ändamål**
 
-inet6 är en ideell, partipolitiskt och religiöst obunden förening som har till ändamål att
+inet6.se är en ideell, partipolitiskt och religiöst obunden förening som har till ändamål att
 
 * sprida kunskap om och främja förståelsen för IPv6 och därtill hörande teknik hos allmänheten, myndigheter, näringsliv och andra organisationer,
 
@@ -20,7 +20,7 @@ Föreningen är religiöst och partipolitiskt obunden.
 
 ## **§ 3 Säte**
 
-Föreningen har sitt säte i \[ort/kommun\], Sverige.
+Föreningen har sitt säte i Stockholm, Sverige.
 
 ## **§ 4 Medlemskap**
 
