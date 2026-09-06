@@ -48,7 +48,7 @@ Föreningens organ är:
 
 ## **§ 7 Årsmöte**
 
-Årsmötet är föreningens högsta beslutande organ och hålls senast under \[månad\] varje år på tid och plats som styrelsen bestämmer. Kallelse ska skickas till samtliga medlemmar senast \[t.ex. tre (3) veckor\] före mötet.
+Årsmötet är föreningens högsta beslutande organ och hålls senast under April varje år på tid och plats som styrelsen bestämmer. Kallelse ska skickas till samtliga medlemmar senast 3 veckor före mötet. Tillhörande handlingar senast 1 vecka före mötet.
 
 Vid årsmötet ska följande ärenden behandlas:
 
