@@ -12,6 +12,8 @@ inet6.se är en ideell, partipolitiskt och religiöst obunden förening som har 
 
 * sprida kunskap om och främja förståelsen för IPv6 och därtill hörande teknik hos allmänheten, myndigheter, näringsliv och andra organisationer,
 
+* sprida kunskap kring systemadministration i Unix-baserade system och nätverksutrustning samt tillhörande kommunikationsprotokoll,
+
 * aktivt verka för att öka tillgängligheten och driftsättningen av IPv6 i Sverige, bland annat genom utbildning, information, opinionsbildning och samverkan med andra aktörer,
 
 * tillhandahålla föreningens medlemmar tjänster kopplade till internetnummerresurser (IPv4, IPv6, ASN och liknande), bland annat genom att föreningen är eller blir registrerad som Local Internet Registry (LIR) hos RIPE NCC eller motsvarande regional internetregistrator, samt förmedla, administrera och sponsra sådana resurser till medlemmar i enlighet med gällande policyer.
