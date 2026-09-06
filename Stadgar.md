@@ -86,7 +86,7 @@ Motioner till årsmötet ska vara styrelsen tillhanda senast \[t.ex. två (2) ve
 
 ## **§ 8 Extra möte**
 
-Extra möte hålls när styrelsen finner det nödvändigt, eller när minst \[t.ex. en tiondel (1/10)\] av föreningens röstberättigade medlemmar eller revisor skriftligen begär det med angivande av ärende. Kallelse ska ske senast \[t.ex. två (2) veckor\] före mötet. Endast det eller de ärenden som angetts i kallelsen får behandlas.
+Extra möte hålls när styrelsen finner det nödvändigt, eller när minst två tredjedelar av föreningens röstberättigade medlemmar eller revisor skriftligen begär det med angivande av ärende. Kallelse ska ske senast 2 veckor före mötet. Endast det eller de ärenden som angetts i kallelsen får behandlas.
 
 ## **§ 9 Rösträtt och beslut**
 
